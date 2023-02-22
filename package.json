@@ -1,0 +1,26 @@
+{
+  "name": "modul2-u_camp",
+  "version": "1.0.0",
+  "description": "Aprendiendo Node JS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danthe79-2023/modul2-U_camp.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "npm",
+    "react"
+  ],
+  "author": "Daniel Haag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danthe79-2023/modul2-U_camp/issues"
+  },
+  "homepage": "https://github.com/Danthe79-2023/modul2-U_camp#readme"
+}
